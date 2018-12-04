@@ -1,4 +1,6 @@
 # tv
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fj0nathanB%2Ftv.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fj0nathanB%2Ftv?ref=badge_shield)
+
 Youtube without the clutter
 
 ## Roadmap
@@ -12,3 +14,6 @@ Youtube without the clutter
 - Route talks to socket
 - Create remote control GUI
 - GUI connects to socket, emits command
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fj0nathanB%2Ftv.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fj0nathanB%2Ftv?ref=badge_large)
